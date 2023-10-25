@@ -1,0 +1,1 @@
+{!! nl2br($text_body) !!}
